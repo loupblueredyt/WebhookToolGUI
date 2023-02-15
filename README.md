@@ -25,6 +25,8 @@ python "webhook tool.py"
 Done !
 
 ## Preview
-![image](https://user-images.githubusercontent.com/96504383/219198907-ea22e7a2-2ff7-454c-b95d-9cd5a73236a2.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96504383/219198907-ea22e7a2-2ff7-454c-b95d-9cd5a73236a2.png">
+</p>
 
-# https://github.com/loupblueredyt (Loup-BlueRed#9866)
+## https://github.com/loupblueredyt (Loup-BlueRed#9866)
