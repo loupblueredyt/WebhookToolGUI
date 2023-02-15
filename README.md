@@ -1,4 +1,4 @@
-# https://github.com/loupblueredyt (Loup-BlueRed#9866)
+## https://github.com/loupblueredyt (Loup-BlueRed#9866)
 
 ### <p align="center">Webhook Discord Tools GUI</p>
 <p align="center">Version .exe available (WebHook TOOL V0.7.exe)</p>
