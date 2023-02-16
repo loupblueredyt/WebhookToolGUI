@@ -1,4 +1,4 @@
-import DiscordWebhook
+import discord-webhook
 import tkinter.messagebox
 import tkinter as tk
 import time
