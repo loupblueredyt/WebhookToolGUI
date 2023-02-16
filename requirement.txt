@@ -1,6 +1,6 @@
-import discord-webhook
-import tkinter.messagebox
-import tkinter as tk
-import time
-import os
-import requests
+discord_webhook
+tkinter.messagebox
+tkinter as tk
+time
+os
+requests
