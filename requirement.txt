@@ -1,6 +1,6 @@
 discord_webhook
 tkinter.messagebox
 tkinter as tk
-time
+python-time
 os
 requests
